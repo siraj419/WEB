@@ -1,0 +1,76 @@
+p {
+    color: green;
+}
+
+/* selector {
+    property: value;
+} */
+
+
+/* Selectors:
+  - Element Selector
+  - Class Selector
+  - Id Selector 
+  - Pseudo-class Selector
+  - Pseudo-element Selector
+*/
+
+.container {
+    width: 80vw;
+    height: 80vh;
+    border: 1px solid black;
+    /* padding: top right bottom left; */
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: 100px;
+    height: 200px;
+    border: 1px solid red;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Units in CSS */
+/* 
+   - Absolute Units: (fixed size, independent)
+     - in (inches)
+     - cm (centimeters)
+     - px (pixels)
+   - Relative Units: (size relative to another value)
+    - em (relative to the font size of the element) - fonts
+    - rem (relative to the font size of the root element) - fonts
+    - % (percentage) - relative to the parent element
+    - vw (viewport width) - relative to the width of the viewport
+    - vh (viewport height) - relative to the height of the viewport
+*/
+
+.section{
+    font-size: 10px;
+}
+
+.para1 {
+    font-size: 1.5em;
+}
+
+/* 20px * 1.5 = 30px */
+
+/* html default font size is 16px, depends on the browser settings */
+
+.para2 {
+    font-size: 1.5rem;
+}
+
+/* Colors in CSS */
+/* Positioning */
+    /* - relative
+    - absolute
+    - fixed
+    - sticky */
+/* font-family: "Times New Roman", Times, serif; */

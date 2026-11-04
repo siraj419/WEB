@@ -1,0 +1,60 @@
+Forntend Languages:
+ - HTML
+ - CSS
+ - JS
+ - ReactJS
+ - NExtJS
+ - TailwindCSS
+
+
+HTML: Strcture of the web page.
+CSS: Styling of the web page.
+JS: Functionality of the web page.
+
+ReactJS
+NEXTJS
+
+Backend Languages:
+  - Python
+  - FastAPI 
+  - PostgreSQL
+
+Frontend <--- APIs ---> Backend
+Applicaion Programming Interface (API):
+
+Prgram1 APIs <---> Program2
+
+Interface: A way of communication.
+
+
+HTML: Hyper Text Markup Language
+
+Markup Language(Tags):
+  HTML
+  XML
+
+Hyper Text: A text that conatins links other text.
+
+Tags:
+ <p> </p>
+
+Case InSensitive:
+  <p> </p>
+  <P> </P>
+
+Elements:
+  Opening Tag content Closing
+  <p> 
+    Paragraph
+  </p>
+
+Empty Elements (Self-Closing tags)
+ - <img />
+
+Attributes:
+  - Control behaviour of teh tags
+  - <img 
+      src='./img.png'
+   />
+
+html = root element
